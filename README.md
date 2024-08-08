@@ -1,5 +1,5 @@
 # Mio-2Axis-Firmware
-Firmware for Mio 2 Axis front mount
+Firmware for Mio 2 Axis
 
 # What's new?
 NOTE: Please use the latest gTune Desktop version at https://github.com/Gremsy/gTuneDesktop/releases/latest
